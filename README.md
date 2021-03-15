@@ -8,7 +8,7 @@
 
 ### 年终总结
 
-- [子醉 的 2020年终总结](https://zizui.blog.csdn.net/article/details/111633105)
+- [子醉 的 2020 年终总结](https://zizui.blog.csdn.net/article/details/111633105)
 - [子醉 的 2019 年终总结](https://zizui.blog.csdn.net/article/details/103788785)
 - [子醉 的 2018 年终总结](https://zizui.blog.csdn.net/article/details/104120286)
 
