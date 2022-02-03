@@ -17,7 +17,6 @@
 ### JavaScript
 
 - [前端开发当中常用的正则表达式](https://juejin.cn/post/6926809922713681928)
-
 - [前端开发当中常用的算法](https://juejin.cn/post/6926520814598619143)
 
 
@@ -26,6 +25,10 @@
 
 - [微信小程序重复点击的解决方法(优化版)](https://zizui.blog.csdn.net/article/details/87978089)
 - [微信小程序缓存什么时候会被清除](https://zizui.blog.csdn.net/article/details/88874624)
+
+### 职场沟通
+
+- [值得前端工程师学习的团队沟通话术](https://zizui.blog.csdn.net/article/details/117362839?spm=1001.2014.3001.5502)
 
 
 
